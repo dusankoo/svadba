@@ -1,0 +1,29 @@
+/* your styles go here */
+
+body {
+    color: #000;
+    background-color: #fcfbe3;
+}
+
+mark {
+  background: #600;
+  color: #600;
+}
+section {
+  position: relative;
+  padding-top: 90px;
+  padding-bottom: 90px;
+}
+section.background-gray-lighter {
+  background: #fcfbe3;
+}
+section.background-gray-lightest {
+  background: #fcfbe3;
+  border-top: solid 1px #fcfbe3;
+  border-bottom: solid 1px #fcfbe3;
+}
+section.background-secondary {
+  background: #9fb1bc;
+  border-top: solid 1px #658090;
+  border-bottom: solid 1px #658090;
+}

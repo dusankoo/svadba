@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on SVADBA</title>
+    <link>https://example.org/about/index.xml</link>
+    <description>Recent content in Abouts on SVADBA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>sk-SK</language>
+    <copyright>&amp;copy;2017 Svadba</copyright>
+    <atom:link href="https://example.org/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>My</title>
+      <link>https://example.org/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/about/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://example.org/img/portfolio/rsz_2.jpg&#34; alt=&#34;Toto sme my!&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
