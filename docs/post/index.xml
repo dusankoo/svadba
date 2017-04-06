@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on SVADBA</title>
-    <link>https://example.org/post/index.xml</link>
+    <link>https://dusankoo.github.io/svadba/post/index.xml</link>
     <description>Recent content in Posts on SVADBA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sk-SK</language>
     <copyright>&amp;copy;2017 Svadba</copyright>
     <lastBuildDate>Sat, 05 Nov 2016 18:25:22 +0530</lastBuildDate>
-    <atom:link href="https://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dusankoo.github.io/svadba/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Ak by ste nám chceli niečo podarovať...</title>
-      <link>https://example.org/post/work1/</link>
+      <link>https://dusankoo.github.io/svadba/post/work1/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>https://example.org/post/work1/</guid>
+      <guid>https://dusankoo.github.io/svadba/post/work1/</guid>
       <description>&lt;h2 id=&#34;inšpiráciu-môžete-nájsť-na-tejto-stránke&#34;&gt;&amp;hellip; inšpiráciu môžete nájsť na tejto stránke.&lt;/h2&gt;
 
 &lt;p&gt;Neberte to však ako povinnosť, k spokojnosti nám postačí vaša prítomnosť.&lt;/p&gt;
@@ -45,10 +45,10 @@
     
     <item>
       <title>Papanice!</title>
-      <link>https://example.org/post/work4/</link>
+      <link>https://dusankoo.github.io/svadba/post/work4/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>https://example.org/post/work4/</guid>
+      <guid>https://dusankoo.github.io/svadba/post/work4/</guid>
       <description>&lt;p&gt;Po dlhom a dojemnom obrade sa iste budete chcieť občerstviť. Jedla bude dostatok pre všetkých, tak sa prosím nestrkajte, na každého sa dostane. Obžerstvo započne štvorchodovou večerou a neskôr, vo večerných hodinách, keď všetko vytancujete, budú k dispozícii studený a teplý bufet vo forme švédskych stolov.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;
@@ -81,10 +81,10 @@ paradajkami a zemiakmi v slaninke&lt;/li&gt;
     
     <item>
       <title>Kedy &amp; Kde &amp; Ako</title>
-      <link>https://example.org/post/work2/</link>
+      <link>https://dusankoo.github.io/svadba/post/work2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/post/work2/</guid>
+      <guid>https://dusankoo.github.io/svadba/post/work2/</guid>
       <description>&lt;h2 id=&#34;13-mája-2017-slovenský-grob&#34;&gt;13. mája 2017, Slovenský Grob&lt;/h2&gt;
 
 &lt;p&gt;Nezabudnite! Svadba sa koná v Kostole Svätého Jána Krstiteľa v Slovenskom Grobe
@@ -105,10 +105,10 @@ zastávok a určite nikoho nevynechá.&lt;/li&gt;
     
     <item>
       <title>Program</title>
-      <link>https://example.org/post/work3/</link>
+      <link>https://dusankoo.github.io/svadba/post/work3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/post/work3/</guid>
+      <guid>https://dusankoo.github.io/svadba/post/work3/</guid>
       <description>&lt;p&gt;Na programe sa stále intenzívne pracuje!&lt;/p&gt;
 </description>
     </item>
